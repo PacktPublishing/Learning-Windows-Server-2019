@@ -64,3 +64,7 @@ Storage: 32GB+
 
 * [Learning Windows Server 2019 [Video]](https://www.packtpub.com/networking-and-servers/learning-windows-server-2019-video?utm_source=github&utm_medium=repository&utm_campaign=9781789954463)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789954463">https://packt.link/free-ebook/9781789954463 </a> </p>
